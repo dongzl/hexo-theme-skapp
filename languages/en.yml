@@ -7,6 +7,14 @@ menu:
   docs: Docs
   archive: Archive
   tags: Tags
+  zookeeper: Zookeeper
+  netty: Netty
+  mysql: MySQL
+  jvm: JVM
+  spring: Spring
+  redis: Redis
+  dsign-pattern: Dsign Pattern
+  high-concurrency: High Concurrency
 
 aside:
   introduction: Introduction

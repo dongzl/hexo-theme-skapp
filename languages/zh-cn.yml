@@ -7,6 +7,15 @@ menu:
   docs: 文档
   archive: 归档
   tags: 标签
+  zookeeper: Zookeeper
+  netty: Netty
+  mysql: MySQL
+  jvm: JVM
+  spring: Spring
+  redis: Redis
+  dsign-pattern: 设计模式
+  high-concurrency: 高并发
+
 
 aside:
   introduction: 简介
