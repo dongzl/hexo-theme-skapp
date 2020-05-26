@@ -10,11 +10,12 @@ menu:
   zookeeper: Zookeeper
   netty: Netty
   mysql: MySQL
-  jvm: JVM
+  java: JAVA
   spring: Spring
   redis: Redis
   dsign-pattern: 设计模式
   high-concurrency: 高并发
+  good-article: 好文链接
 
 
 aside:

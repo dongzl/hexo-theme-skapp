@@ -10,11 +10,12 @@ menu:
   zookeeper: Zookeeper
   netty: Netty
   mysql: MySQL
-  jvm: JVM
+  java: JAVA
   spring: Spring
   redis: Redis
   dsign-pattern: Dsign Pattern
   high-concurrency: High Concurrency
+  good-article: Good Article
 
 aside:
   introduction: Introduction
