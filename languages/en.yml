@@ -16,6 +16,7 @@ menu:
   dsign-pattern: Dsign Pattern
   high-concurrency: High Concurrency
   good-article: Good Article
+  leetcode-cookbook: LeetCode Cookbook
 
 aside:
   introduction: Introduction
